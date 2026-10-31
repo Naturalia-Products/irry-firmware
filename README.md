@@ -9,6 +9,7 @@ Each device variant has a folder:
 
 | Variant | Board |
 |---|---|
+| `it7` | x8 relay board (ESP32) |
 | `it7ws` | Waveshare ESP32-S3-ETH-8DI-8RO |
 
 Devices install an image only if its signature verifies with the public key compiled into their firmware, so a file changed here is rejected. Pre-release versions (`X.Y.Z-rcN`) are offered for manual install only and are never installed in Auto mode.

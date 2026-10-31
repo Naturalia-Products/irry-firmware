@@ -1,0 +1,16 @@
+{
+  "name": "it7",
+  "version": "2.3.2",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "ota": {
+        "path": "it7-2.3.2.ota.bin",
+        "md5": "4f3ab35ee142cbf638a25e1e9bb51cac",
+        "sig": "MEUCIARObEXgAxYa7EiJs/vByvJbxpzEqJwYsJG4q0JXvXfhAiEAg+WfLNCGKedQRj46JYxHmRN6+qDe7c38JeNK1AwO9z0=",
+        "summary": "Irry 2.3.2",
+        "release_url": "https://github.com/Naturalia-Products/Irry-Products/releases/tag/v2.3.2"
+      }
+    }
+  ]
+}
