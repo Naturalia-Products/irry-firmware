@@ -1,15 +1,15 @@
 {
   "name": "it7ws",
-  "version": "2.3.2",
+  "version": "2.9.0",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "ota": {
-        "path": "it7ws-2.3.2.ota.bin",
-        "md5": "cd0bfc70925b36135401496ad768feb6",
-        "sig": "MEYCIQDl6UV/cAqu+blKnnqvXn0HcEnjKUm+LJ0cAu9ckMJHXwIhAI/c+7QZ6vVRZls4Qlm5zyWxN/f1z/MurIJCrfD7ZkM4",
-        "summary": "Irry 2.3.2",
-        "release_url": "https://github.com/Naturalia-Products/Irry-Products/releases/tag/v2.3.2"
+        "path": "it7ws-2.9.0.ota.bin",
+        "md5": "0e938c00a3504ba6e1d216c173157ee4",
+        "sig": "MEYCIQDjyLyooIRqevjkfUMXundnRjLebB5XapBl0KvLSwT2GAIhAKTspHXis6fbAeWwCD1rxAcsyUeEGWgOp5yGrWGYrFDw",
+        "summary": "Irry 2.9.0",
+        "release_url": "https://github.com/Naturalia-Products/Irry-Products/releases/tag/v2.9.0"
       }
     }
   ]

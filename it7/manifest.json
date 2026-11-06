@@ -1,15 +1,15 @@
 {
   "name": "it7",
-  "version": "2.3.2",
+  "version": "2.9.0",
   "builds": [
     {
       "chipFamily": "ESP32",
       "ota": {
-        "path": "it7-2.3.2.ota.bin",
-        "md5": "4f3ab35ee142cbf638a25e1e9bb51cac",
-        "sig": "MEUCIARObEXgAxYa7EiJs/vByvJbxpzEqJwYsJG4q0JXvXfhAiEAg+WfLNCGKedQRj46JYxHmRN6+qDe7c38JeNK1AwO9z0=",
-        "summary": "Irry 2.3.2",
-        "release_url": "https://github.com/Naturalia-Products/Irry-Products/releases/tag/v2.3.2"
+        "path": "it7-2.9.0.ota.bin",
+        "md5": "273915a0863bd77a96587bab4a26835a",
+        "sig": "MEUCIBSBdNOY/WkjbFjgesMGSJwRovkkMw+nV83XkxKXnt8jAiEA02e+Kox5yzPqlHuCAL20FCPHRlWvMC/HbolSP6oTF1k=",
+        "summary": "Irry 2.9.0",
+        "release_url": "https://github.com/Naturalia-Products/Irry-Products/releases/tag/v2.9.0"
       }
     }
   ]
